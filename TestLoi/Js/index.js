@@ -1,4 +1,4 @@
 const init = () => {
-  view.setActiveScreen('loginScreen')
+  view.setActiveScreen("loginScreen");
 };
 window.onload = init;
